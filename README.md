@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ommprakash9/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ommprakash9/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Ommprakash9/LeetCode/tree/master/0048-rotate-image) |
 ## Linked List
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ommprakash9/LeetCode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Ommprakash9/LeetCode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ommprakash9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Ommprakash9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ommprakash9/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ommprakash9/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ommprakash9/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
