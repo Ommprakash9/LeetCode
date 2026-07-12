@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ommprakash9/LeetCode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/Ommprakash9/LeetCode/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ommprakash9/LeetCode/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Ommprakash9/LeetCode/tree/master/0394-decode-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Ommprakash9/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
