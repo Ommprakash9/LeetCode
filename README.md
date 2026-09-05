@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ommprakash9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Ommprakash9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ommprakash9/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/Ommprakash9/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ommprakash9/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ommprakash9/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/Ommprakash9/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ommprakash9/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
