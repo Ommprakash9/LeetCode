@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ommprakash9/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ommprakash9/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Ommprakash9/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ommprakash9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ommprakash9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ommprakash9/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ommprakash9/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
