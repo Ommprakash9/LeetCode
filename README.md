@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/Ommprakash9/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ommprakash9/LeetCode/tree/master/0048-rotate-image) |
 | [0836-rectangle-overlap](https://github.com/Ommprakash9/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ommprakash9/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/Ommprakash9/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ommprakash9/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Linked List
@@ -45,6 +46,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ommprakash9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ommprakash9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ommprakash9/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ommprakash9/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ommprakash9/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Ommprakash9/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ommprakash9/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ommprakash9/LeetCode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ommprakash9/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
