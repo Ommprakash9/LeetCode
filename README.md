@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ommprakash9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Ommprakash9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ommprakash9/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ommprakash9/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ommprakash9/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Ommprakash9/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ommprakash9/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ommprakash9/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ommprakash9/LeetCode/tree/master/0217-contains-duplicate) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ommprakash9/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ommprakash9/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -49,6 +51,7 @@
 | [0053-maximum-subarray](https://github.com/Ommprakash9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ommprakash9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ommprakash9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ommprakash9/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ommprakash9/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sorting
 |  |
@@ -97,4 +100,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ommprakash9/LeetCode/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ommprakash9/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ommprakash9/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
