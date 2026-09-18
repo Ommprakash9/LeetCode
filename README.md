@@ -43,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ommprakash9/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ommprakash9/LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Ommprakash9/LeetCode/tree/master/0389-find-the-difference) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ommprakash9/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ommprakash9/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ommprakash9/LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Ommprakash9/LeetCode/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Ommprakash9/LeetCode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Ommprakash9/LeetCode/tree/master/0394-decode-string) |
 ## Stack
 |  |
@@ -108,4 +111,8 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ommprakash9/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ommprakash9/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
