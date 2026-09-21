@@ -10,6 +10,7 @@
 | [0070-climbing-stairs](https://github.com/Ommprakash9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Ommprakash9/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ommprakash9/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/Ommprakash9/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Ommprakash9/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Ommprakash9/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Linked List
@@ -36,6 +37,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ommprakash9/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ommprakash9/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ommprakash9/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Ommprakash9/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ommprakash9/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ommprakash9/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -54,6 +56,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ommprakash9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ommprakash9/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ommprakash9/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/Ommprakash9/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Sorting
 |  |
 | ------- |
